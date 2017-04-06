@@ -11,7 +11,7 @@ global with sharing class ExampleAccountWrapperMVN extends RestResponseMVN {
     @TestVisible private static Integer BIG_PLAYER_LINE = 100000;
 
     /**
-    * @description 
+    * @description test
     */
     public String accountId { get; set; }
     public String accountName { get; set; }
